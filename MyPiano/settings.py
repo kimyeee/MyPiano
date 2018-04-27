@@ -77,7 +77,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'MyPiano',
         'USER': 'root',
-        'PASSWORD': 123456,
+        'PASSWORD': 'Rgd1992..',
         'HOST': '127.0.0.1',
         'PORT': 3306,
         'CHARSET': 'UTF-8',

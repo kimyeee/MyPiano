@@ -7,4 +7,4 @@ class Piano(models.Model):
     artist = models.CharField('艺术家', max_length=60)
 
     class Meta:
-        db_table = 'piano'
+        db_table = 'piano_music'
