@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+templates/
+static/
+logs/
+media/
+migrations/
