@@ -75,9 +75,9 @@ WSGI_APPLICATION = 'MyPiano.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mypiano',
+        'NAME': 'test',
         'USER': 'root',
-        'PASSWORD': 'Rgd1992..',
+        'PASSWORD': '1q2w3e4r!Q',
         'HOST': '127.0.0.1',
         'PORT': 3306,
         'CHARSET': 'UTF-8',
